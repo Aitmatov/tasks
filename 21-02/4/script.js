@@ -6,7 +6,7 @@ console.log(result);
 
 let consomption = 500;
 let income1 = 200;
-let result1 = !(consomption > 600) || (income1 ===100);
+let result1 = consomption > 600 || income1 ===100;
 console.log(result1);
 
 let tax1 = 300;
