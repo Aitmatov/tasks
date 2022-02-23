@@ -2,9 +2,9 @@
 с сообщением 'Верно', иначе выведите 'Неверно'.*/
 
 let x = 7;
-if (x==7){
+if (x===7){
     alert('Verno');
-}else {
+}else
     alert('Neverno');
 }
 
