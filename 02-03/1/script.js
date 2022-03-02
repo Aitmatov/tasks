@@ -41,9 +41,15 @@ console.log(data1(k));
 элемент (значение для массива), вторым параметром размер массива.
     Например: myFunc('a', 3)   // ['a', 'a', 'a']*/
 
+function myFunc(addA,value) {
+ let arr = [];
+ for(addA;addA > 0; addA--){
+  arr.push(value)
+ }
+ return arr;
+}
 
-
-
+console.log(myFunc(3,'a'));
 
 
 
