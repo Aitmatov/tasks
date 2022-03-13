@@ -1,0 +1,175 @@
+body{
+    background-color: #000000;
+    margin: 248px 388px;
+}
+.block{
+
+    width: 664px;
+    height: 576px;
+    border-radius: 8px;
+    background-color:#FFffFF;
+    padding: 24px;
+}
+h3,p{
+    margin-left: 24px;
+}
+.personal-data,input{
+    display: flex;
+    gap: 8px;
+    height:48px;
+    margin-left: 8px;
+    border-radius: 8px;
+    padding-left: 8px;
+}
+.user0{
+    width: 200px;
+}
+.last0{
+    width: 200px;
+}
+.patronymic0{
+    width: 200px;
+}
+.passport-details{
+    display: flex;
+    gap: 8px;
+    margin-left: 8px;
+    border-radius: 8px;
+    padding-left: 8px;
+}
+.date-birth1{
+    width: 200px;
+}
+.place1{
+    width: 400px;
+}
+.passport-details1{
+    display: flex;
+    gap: 8px;
+    margin-left: 8px;
+    border-radius: 8px;
+    padding-left: 8px;
+    margin-top: 16px;
+}
+.serial-number0{
+    width: 200px;
+}
+.inn0{
+    width: 200px;
+}
+.date-of-receiving0{
+    width: 200px;
+}
+.passport-details2{
+    display: flex;
+    gap: 8px;
+    margin-left: 8px;
+    border-radius: 8px;
+    padding-left: 8px;
+    margin-top: 16px;
+    height: 48px;
+}
+.contact-number0{
+    width: 200px;
+}
+.el-address0{
+    width: 200px;
+}
+.bank-name1{
+    width: 200px;
+    height: 54px;
+    border-radius: 8px;
+    padding-left: 8px;
+}
+.bb1{
+    margin-left: 8px;
+    border-radius: 8px;
+    padding-left: 8px;
+    margin-top: 16px;
+}
+.bb2{
+    width: 408px;
+}
+
+
+button{
+    width: 348px;
+    height: 48px;
+    margin-top: 40px;
+    margin-left: 160px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
